@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BirdApp/static/css/main.ad5c5e97.css",
+    "main.js": "/BirdApp/static/js/main.346db41e.js",
+    "static/media/img-1.jpg": "/BirdApp/static/media/img-1.8f02ada1c1fe829c0d92.jpg",
+    "static/media/img-8.jpg": "/BirdApp/static/media/img-8.3cd6eb8076a1560f70ba.jpg",
+    "static/media/img-2.jpg": "/BirdApp/static/media/img-2.05587cb05bdec82e4cf0.jpg",
+    "index.html": "/BirdApp/index.html",
+    "main.ad5c5e97.css.map": "/BirdApp/static/css/main.ad5c5e97.css.map",
+    "main.346db41e.js.map": "/BirdApp/static/js/main.346db41e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5c5e97.css",
+    "static/js/main.346db41e.js"
+  ]
+}
